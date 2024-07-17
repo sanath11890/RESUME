@@ -1,1 +1,61 @@
-This is about the project
+**Introduction**
+Story Generator Algorithmic (SGAs) are computer techniques that produce a narrative product. Since the early days of A.i. (AI) [1, 2, 3, 4, 8], scientists have been trying to figure out how to generate tales automatically. One definition of an algorithm is "a sequence of steps that, when carried out on a particular input, yields a desired result." This situation calls for the completion of a narrative. In SGAs, "story" serves a practical purpose and does not refer to any kind of artistic idea [1, 4]. This is significant because it establishes the parameters for judging computer-generated tales, where the quality of the text's presentation on the surface is not always the most essential factor in their appraisal.
+Making a movie or a video game would be impossible without a strong focus on story. Because they enhance the final product's charm. It is possible for youngsters to acquire vital insight into a topic when tales are employed as teaching tools. This means that in order to stay up with the present supply, new and improved materials must be regularly created [7]. Short tales from a wide range of writers are included in this anthology. Because of these new restrictions, small and medium-sized firms have asked the government for aid in complying.
+One example of how computers may be used in the realm of information technology is the production of storytelling. There was a "happening," according to the accounts. "Story creation" or "story building" refers to the act of creating a tale from a collection of input qualities. With Over the last several decades, there has been a steady rise in the number of articles discussing the developments in artificial intelligence and processing power. Because of new generational algorithms being introduced to the industry, this was achievable. You may summarize a chunk of the current narrative by following this method. 
+As a further option, there are a variety of distinct generating algorithms. 
+i.	The algorithm that is based on data.
+ii.	The algorithm based on cases.
+iii.	The algorithm based on roles.
+
+1.1 System Aims
+i.	Narrate Stories using Text to Speech.
+ii.	Download Stories as Text files.
+iii.	Get a globally sharable URL and QR code to share stories with anyone.
+iv.	Get Suggestions for possible Grammatical/Spelling errors.
+v.	Add your generated stories to a publicly accessible "Wall of Stories".
+vi.	Specify a word limit for your story.
+
+1.2 System Objectives
+i.	The investigation of existing algorithms for creating stores is now underway. 
+ii.	The purpose is to execute an innovative technique for generating stories that is driven by the users themselves. 
+iii.	Design and build a story generator built entirely out of user-generated content in order to maximize its effectiveness.
+iv.	It is important to satisfy the following criteria in order to evaluate the narrative generator based on feedback from users.
+
+1.3 System Background
+“Research on storytelling systems (computational systems capable of telling a story) has experienced considerable growth over the years. More recently, the number of systems developed has increased significantly. These systems initially arose as part of the general trend in AI to build computational solutions that could achieve the kind of tasks that are easy for humans and difficult for machines.” 
+“Other examples of this trend include computer vision, speech processing and natural language understanding. Of all these examples, the first two have achieved success and given rise to commercial applications. Natural language understanding and story generation remain at the exploratory research stage.”
+
+1.4 Problem Statements
+“For story generation in particular, a large part of the problem is the fact that the task is not well defined in an AI / computational perspective. If an algorithm is to be devised for a given task, it should be very clear what the inputs must be and what characteristics are expected of the output. 
+In the generation of stories, none of these clearly defined. When humans produce stories, it is often not transparent what inputs they are bringing to bear on the process. Moreover, saying what makes a good story remains a question open for debate.”
+
+1.5 System Scope
+Existing story creation systems are often experimental in terms of not just the algorithms they use but also the variety of inputs they begin with and the features their intended output tales should provide. This is significant in narratology because differing perspectives on these primary choices give birth to radically divergent ideas about how stories are created. Research into SGAs may help clarify some of the more vague areas of narrative theory.
+
+1.6 Research Questions
+i.	How to be aware of the various story-generation algorithms available, as well as their respective limits, before writing?
+ii.	Can system hold the user's attention while creating a new narrative?
+iii.	How user-driven narrative creation method calls for the development and implementation of a story generator?
+iv.	When using a user-driven story generating methodology, what is the primary purpose of the method in question?
+v.	Is testing the tale generator's output an option for ensuring its correctness?
+ 
+1.7 System Functionality
+i.	There are some major functions that are performed by the users in the system;
+ii.	User may login/register.
+iii.	User can generate story.
+iv.	User can edit/delete Booking.
+v.	Admin can add multiple and categories story.
+vi.	User can see categories of stories.
+vii.	User can give feedback.
+
+1.8 Operating Environment
+The software is designed to run on Windows. In other words, it will function with browsers like Chrome and Firefox. These browsers will also be able to use the vast majority of the available functionalities. A computer with an internet connection is all that is needed to utilise this digital product.
+You will also need a working internet connection. In both phases, the Installation directory server is used extensively. Without these optional add-ons, the usability and performance of any web-based system would be in question.
+
+1.9 Appropriated Technologies
+i.	HTML
+ii.	CSS
+iii.	Django
+iv.	MySQL
+v.	Xammp
+vi.	Python
