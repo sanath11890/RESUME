@@ -15,9 +15,11 @@ Motivated professional with a strong work ethic and a diverse skill set, seeking
 
 # Education
 **Kakatiya Institute of Technology and Science, Warangal                                                                                                            May,2021**
+
 Bachelors of Technology in Electrical Engineering 
 # Experience
 **Electrical Engineering Intern                                                                                                                        June 2019 - July 2019**
+
 Telangana State Power Generation Corporation Limited                                                                                                      Palwancha, Telangana
 
 - Acquired practical skills in troubleshooting and maintenance of electrical equipment such as generators, transformers, and switchgear under the guidance of senior engineers.
